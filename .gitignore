@@ -1,0 +1,7 @@
+# Binaries for programs and plugins
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
